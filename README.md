@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raunakgith" alt="raunakgith" /></a> </p>
 
-- 🌱 I’m currently learning **Solidity, Blockchain,**
+- 🌱 I’m currently learning **React, Solidity, Blockchain**
 
 - 📫 How to reach me **raunakgg@gmail.com**
 
